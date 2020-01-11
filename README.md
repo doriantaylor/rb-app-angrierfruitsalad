@@ -5,7 +5,8 @@ Salad](https://github.com/doriantaylor/p5-app-angryfruitsalad), which
 was a demonstration project to automatically render a graph database
 as a website. It was called that because by default, every vocabulary
 in the graph was given a slice of the colour spectrum, making every
-page a garish shotgun blast of rainbow text.
+page [a garish shotgun blast of rainbow
+text](http://www.catb.org/jargon/html/A/angry-fruit-salad.html).
 
 For a lot of reasons, the Angry Fruit Salad wasn't very good. Mainly,
 it wasn't very good because you couldn't really _do_ anything with it
